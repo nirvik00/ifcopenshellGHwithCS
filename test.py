@@ -5,7 +5,7 @@ import os
 
 
 ### set the same dir name in grasshopper
-dirpath="c:\\xyz" # 1. USER - SET DIRECTORY 
+dirpath="C:\\nir_dev\\xyz" # 1. USER - SET DIRECTORY 
 outfilename = dirpath+"\\abc.txt"     # 2. USER - SET OUTPUT FILENAME
 
 #####   prints to screen - picked up by c# in GH

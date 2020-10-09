@@ -1,0 +1,16 @@
+directory: C:\nir_dev\xyz
+IfcBuilding
+IfcBuildingStorey
+IfcBuildingStorey
+IfcWallStandardCase
+IfcWallStandardCase
+IfcWallStandardCase
+IfcWallStandardCase
+IfcColumn
+IfcRoof
+IfcSlab
+IfcSlab
+IfcSlab
+IfcSlab
+IfcSlab
+IfcSite
